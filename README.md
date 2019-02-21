@@ -1,5 +1,5 @@
 
-# gateway-mobile-push
+# Gateway Coinmarketcap  storage coins tickets .
 
 
 Application to store coins quotations (bitcoin, litecoin and etc)
